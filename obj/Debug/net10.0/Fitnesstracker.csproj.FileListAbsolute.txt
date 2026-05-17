@@ -12,3 +12,4 @@ C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\r
 C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.pdb
 C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.genruntimeconfig.cache
 C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\ref\Fitnesstracker.dll
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.sourcelink.json

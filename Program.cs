@@ -10,9 +10,16 @@
     
         Console.WriteLine("Wie viele Minuten hast du trainiert?");
         string? dauerText = Console.ReadLine();
-        int dauer = int.Parse(dauerText!);
-        Console.WriteLine("Super! Das sind  " + dauer + " Minuten " + sportart + ".");
-
-    
+        // Um Abstürze zu verhindern benutzen wir jetzt TryParse statt Parse mit dem "!"
+        // "out" speichert bei Erfolg den Wert in der Variable
+        bool erfolg = int.TryParse(dauerText, out int dauer);
+        if (erfolg == false)
+        {
+            Console.WriteLine("Das war keine gültige Zahl!");
+        }
+        else
+        {
+            Console.WriteLine("Super! Das sind  " + dauer + " Minuten " + sportart + ".");
+        }
     }
 }

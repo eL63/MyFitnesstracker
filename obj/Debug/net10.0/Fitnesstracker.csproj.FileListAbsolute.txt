@@ -1,0 +1,14 @@
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\bin\Debug\net10.0\Fitnesstracker.exe
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\bin\Debug\net10.0\Fitnesstracker.deps.json
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\bin\Debug\net10.0\Fitnesstracker.runtimeconfig.json
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\bin\Debug\net10.0\Fitnesstracker.dll
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\bin\Debug\net10.0\Fitnesstracker.pdb
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.AssemblyInfoInputs.cache
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.AssemblyInfo.cs
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.dll
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\refint\Fitnesstracker.dll
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.pdb
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\Fitnesstracker.genruntimeconfig.cache
+C:\Users\Anwender\IdeaProjects\Fitnesstracker\Fitnesstracker\obj\Debug\net10.0\ref\Fitnesstracker.dll
